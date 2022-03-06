@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\HomeController;
+use App\Http\Controllers\NothingController;
 use App\Http\Controllers\RylanristiaController;
 use App\Http\Controllers\SplashscreenController;
 use App\Http\Controllers\TweetsenderController;
@@ -24,6 +25,7 @@ use Illuminate\Support\Facades\Route;
 Route::redirect('/register', '/login');
 Route::redirect('/password/reset', '/login');
 Route::redirect('/password/email', '/login');
+route::get('/', [NothingController::class, 'index'])->name('nothing');
 route::get('/hi-april', [SplashscreenController::class, 'index'])->name('index');
 route::get('/start-page', [WelcomeController::class, 'index'])->name('welcome');
 route::get('/from-me', [RylanristiaController::class, 'index'])->name('from-me');
