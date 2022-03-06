@@ -22,7 +22,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::redirect('/register', '/login');
+// Route::redirect('/register', '/login');
 Route::redirect('/password/reset', '/login');
 Route::redirect('/password/email', '/login');
 route::get('/', [NothingController::class, 'index'])->name('nothing');
