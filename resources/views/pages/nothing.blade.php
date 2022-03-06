@@ -14,7 +14,7 @@
         }
 
         body {
-            background-color: darkslateblue;
+            background-color: #39315C !important;
             color: white;
         }
 
