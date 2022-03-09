@@ -196,6 +196,10 @@
                                 </div>
                                 {{-- end comment --}}
 
+                                <div class="d-flex justify-content-center">
+                                    <button class="btn btn-readmore">Read more comments</button>
+                                </div>
+
                                 <div class="comment-section d-flex mt-4">
                                     <img src="./images/profile-april.svg" alt="" width="35px">
                                     <div class="card-comment d-flex ms-2">
@@ -329,7 +333,12 @@
                                     </div>
                                 </div>
                                 {{-- end comment --}}
-                                <div class="comment-section d-flex">
+
+                                <div class="d-flex justify-content-center">
+                                    <button class="btn btn-readmore">Read more comments</button>
+                                </div>
+
+                                <div class="comment-section d-flex mt-4">
                                     <img src="./images/profile-april.svg" alt="" width="35px">
                                     <div class="card-comment d-flex ms-2">
                                         <input type="text" class="form-control" placeholder="Leave a comment"
@@ -462,7 +471,12 @@
                                     </div>
                                 </div>
                                 {{-- end comment --}}
-                                <div class="comment-section d-flex">
+
+                                <div class="d-flex justify-content-center">
+                                    <button class="btn btn-readmore">Read more comments</button>
+                                </div>
+
+                                <div class="comment-section d-flex mt-4">
                                     <img src="./images/profile-april.svg" alt="" width="35px">
                                     <div class="card-comment d-flex ms-2">
                                         <input type="text" class="form-control" placeholder="Leave a comment"
@@ -597,7 +611,12 @@
                                     </div>
                                 </div>
                                 {{-- end comment --}}
-                                <div class="comment-section d-flex">
+
+                                <div class="d-flex justify-content-center">
+                                    <button class="btn btn-readmore">Read more comments</button>
+                                </div>
+
+                                <div class="comment-section d-flex mt-4">
                                     <img src="./images/profile-april.svg" alt="" width="35px">
                                     <div class="card-comment d-flex ms-2">
                                         <input type="text" class="form-control" placeholder="Leave a comment"
@@ -733,7 +752,12 @@
                                     </div>
                                 </div>
                                 {{-- end comment --}}
-                                <div class="comment-section d-flex">
+
+                                <div class="d-flex justify-content-center">
+                                    <button class="btn btn-readmore">Read more comments</button>
+                                </div>
+
+                                <div class="comment-section d-flex mt-4">
                                     <img src="./images/profile-april.svg" alt="" width="35px">
                                     <div class="card-comment d-flex ms-2">
                                         <input type="text" class="form-control" placeholder="Leave a comment"

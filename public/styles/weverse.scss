@@ -57,6 +57,16 @@ body {
     height: 75px;
 }
 
+.btn-readmore {
+    background-color: white !important;
+    color: #0adbb8 !important;
+    border-color: #0adbb8 !important;
+    font-weight: 600;
+    font-size: 14px;
+    border-radius: 100px;
+    width: 182px;
+}
+
 @media (max-width: 375px) {
     .comment-txt {
         background-color: #ecfaff;
