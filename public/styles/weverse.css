@@ -61,6 +61,28 @@ body {
   height: 75px;
 }
 
+@media (max-width: 375px) {
+  .comment-txt {
+    background-color: #ecfaff;
+    width: -webkit-max-content;
+    width: -moz-max-content;
+    width: max-content;
+    margin-left: 10px;
+    font-size: 10px !important;
+    border-bottom-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+    padding: 8px;
+    padding-right: 15px;
+  }
+  .stats {
+    margin-top: -30px;
+  }
+  .stats p {
+    font-size: 10px !important;
+  }
+}
+
 .content-weverse {
   margin-top: 120px;
 }

@@ -293,6 +293,53 @@ body {
             }
         }
     }
+    @media (max-width: 375px) {
+        .card {
+            border-radius: 15px;
+            min-height: 100px;
+            width: 350px;
+            .head-card {
+                margin-top: 20px;
+                margin-left: 25px;
+                margin-right: 25px;
+                .profile {
+                    width: 50px;
+                    height: 50px;
+                }
+                .twitter {
+                    margin-top: 5px;
+                    width: 30px;
+                    height: 30px;
+                }
+                p {
+                    margin-top: 10px;
+                    margin-left: 15px;
+                    font-weight: 700;
+                }
+            }
+            .text-sender {
+                margin-top: 20px;
+                margin-left: 25px;
+                margin-right: 25px;
+                font-size: 15px;
+            }
+            .time-stamp {
+                margin-top: 15px;
+                margin-left: 25px;
+                margin-right: 25px;
+                font-weight: 100;
+                font-size: 12px;
+            }
+            .twit-stats {
+                margin-top: -10px;
+                margin-left: 25px;
+                margin-right: 25px;
+                p {
+                    font-size: 12px;
+                }
+            }
+        }
+    }
 }
 
 .twit-timeline {
@@ -351,6 +398,9 @@ body {
         }
         .text-sender {
             margin-top: 20px;
+        }
+        @media (max-width:375px) {
+            font-size: 15px;
         }
         .time-stamp {
             margin-top: 15px;

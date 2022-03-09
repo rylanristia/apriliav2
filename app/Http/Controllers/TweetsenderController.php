@@ -14,7 +14,7 @@ class TweetsenderController extends Controller
      */
     public function index()
     {
-        $twitter = TweetsenderModel::orderBy('id', 'desc')->get();
+        $twitter = TweetsenderModel::orderBy('id', 'desc')->where('highlighted', '0')->get();
         $highlighted = TweetsenderModel::where('highlighted', '1')->get();
 
         return view('pages.tweet-sender')->with([
