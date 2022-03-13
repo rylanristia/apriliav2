@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light shadow-sm fixed-top">
     <div class="container-fluid mx-4">
         <img src="./images/hamburger.svg" alt="" height="20px" class="me-4 d-lg-block d-none">
-        <img src="../images/logo-weverse.svg" alt="" height="20px">
+        <img src="./images/logo-weverse.svg" alt="" height="20px">
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
             aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
