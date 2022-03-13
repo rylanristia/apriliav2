@@ -568,7 +568,7 @@
                                     </div>
                                     <div class="col-11">
                                         <div>
-                                            <p class="comment-txt">
+                                            <p class="comment-txt" style="max-width: 100%">
                                                 <strong>TXT_HUENINGKAI</strong><img src="./images/verified.svg" alt=""
                                                     width="13px" class="ms-1 verified">
                                                 ?????????????????????????????????? really?
@@ -711,7 +711,7 @@
                                     </div>
                                     <div class="col-11">
                                         <div>
-                                            <p class="comment-moa">
+                                            <p class="comment-moa" style="max-width: 100%">
                                                 <strong>웅냥몽</strong>
                                                 Happy birthday. I pray all your birthday wishes to come true.
                                             </p>
@@ -735,7 +735,7 @@
                                     </div>
                                     <div class="col-11">
                                         <div>
-                                            <p class="comment-moa">
+                                            <p class="comment-moa" style="max-width: 100%">
                                                 <strong>Aira.m</strong>
                                                 Happy birthday, we are MOAS, so loving you much much much!!!
                                             </p>
