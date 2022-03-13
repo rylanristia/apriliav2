@@ -238,14 +238,14 @@
                                 {{-- comment --}}
                                 <div class="row">
                                     <div class="col-1">
-                                        <img src="./images/yeonjun.svg" alt="" width="30px">
+                                        <img src="./images/soobin.svg" alt="" width="30px">
                                     </div>
                                     <div class="col-11">
                                         <div>
                                             <p class="comment-txt">
-                                                <strong>TXT_YEONJUN</strong><img src="./images/verified.svg" alt=""
+                                                <strong>TXT_SOOBIN</strong><img src="./images/verified.svg" alt=""
                                                     width="13px" class="ms-1 verified">
-                                                Birthday girl? Who? Do I know her?
+                                                She's mine.
                                             </p>
                                             <div class="d-flex stats">
                                                 <img src="./images/like-weverse.svg" alt="">
@@ -262,18 +262,18 @@
                                 </div>
                                 <div class="row">
                                     <div class="col-1">
-                                        <img src="./images/beomgyu.svg" alt="" width="30px">
+                                        <img src="https://cdn-contents.weverse.io/static/profile/profile_defalut_img_02.png"
+                                            alt="" width="30px">
                                     </div>
                                     <div class="col-11">
                                         <div>
-                                            <p class="comment-txt">
-                                                <strong>TXT_BEOMGYU</strong><img src="./images/verified.svg" alt=""
-                                                    width="13px" class="ms-1 verified">
-                                                Who else is this?
+                                            <p class="comment-moa">
+                                                <strong>moacatz</strong>
+                                                Happy birthday for soobin's girlfriend!
                                             </p>
                                             <div class="d-flex stats">
                                                 <img src="./images/like-weverse.svg" alt="">
-                                                <p class="pt-3 ps-1">20k+</p>
+                                                <p class="pt-3 ps-1">25</p>
                                                 <span class="fc-gray button-split px-1">.</span>
                                                 <p class="pt-3 ps-1">Reply</p>
                                                 <span class="fc-gray button-split px-1">.</span>
@@ -286,18 +286,18 @@
                                 </div>
                                 <div class="row">
                                     <div class="col-1">
-                                        <img src="./images/taehyun.svg" alt="" width="30px">
+                                        <img src="https://cdn-contents.weverse.io/static/profile/profile_defalut_img_01.png"
+                                            alt="" width="30px">
                                     </div>
                                     <div class="col-11">
                                         <div>
-                                            <p class="comment-txt">
-                                                <strong>TXT_TAEHYUN</strong><img src="./images/verified.svg" alt=""
-                                                    width="13px" class="ms-1 verified">
-                                                Who else is this?
+                                            <p class="comment-moa">
+                                                <strong>evelyn_txt</strong>
+                                                We want to be youuuuu 😭😭😭😭
                                             </p>
                                             <div class="d-flex stats">
                                                 <img src="./images/like-weverse.svg" alt="">
-                                                <p class="pt-3 ps-1">20k+</p>
+                                                <p class="pt-3 ps-1">20</p>
                                                 <span class="fc-gray button-split px-1">.</span>
                                                 <p class="pt-3 ps-1">Reply</p>
                                                 <span class="fc-gray button-split px-1">.</span>
@@ -310,18 +310,18 @@
                                 </div>
                                 <div class="row">
                                     <div class="col-1">
-                                        <img src="./images/kai.svg" alt="" width="30px">
+                                        <img src="https://cdn-contents.weverse.io/static/profile/profile_defalut_img_02.png"
+                                            alt="" width="30px">
                                     </div>
                                     <div class="col-11">
                                         <div>
-                                            <p class="comment-txt">
-                                                <strong>TXT_HUENINGKAI</strong><img src="./images/verified.svg" alt=""
-                                                    width="13px" class="ms-1 verified">
-                                                ??????
+                                            <p class="comment-moa">
+                                                <strong>Valerie</strong>
+                                                You're so lucky girl 😭😭❤️❤️
                                             </p>
                                             <div class="d-flex stats">
                                                 <img src="./images/like-weverse.svg" alt="">
-                                                <p class="pt-3 ps-1">20k+</p>
+                                                <p class="pt-3 ps-1">224</p>
                                                 <span class="fc-gray button-split px-1">.</span>
                                                 <p class="pt-3 ps-1">Reply</p>
                                                 <span class="fc-gray button-split px-1">.</span>
@@ -376,14 +376,14 @@
                                 {{-- comment --}}
                                 <div class="row">
                                     <div class="col-1">
-                                        <img src="./images/yeonjun.svg" alt="" width="30px">
+                                        <img src="https://cdn-contents.weverse.io/static/profile/profile_defalut_img_02.png"
+                                            alt="" width="30px">
                                     </div>
                                     <div class="col-11">
                                         <div>
-                                            <p class="comment-txt">
-                                                <strong>TXT_YEONJUN</strong><img src="./images/verified.svg" alt=""
-                                                    width="13px" class="ms-1 verified">
-                                                Birthday girl? Who? Do I know her?
+                                            <p class="comment-moa" style="max-width: 100%">
+                                                <strong>soobinie_mine</strong>
+                                                PLEASE TELL ME WHO SHE IS!! We want it too!
                                             </p>
                                             <div class="d-flex stats">
                                                 <img src="./images/like-weverse.svg" alt="">
@@ -400,14 +400,14 @@
                                 </div>
                                 <div class="row">
                                     <div class="col-1">
-                                        <img src="./images/beomgyu.svg" alt="" width="30px">
+                                        <img src="https://cdn-contents-web.weverse.io/user/1134a6b1d7604ce9890f7537a1fadcf4281.jpg"
+                                            alt="" width="30px" class="rounded-circle">
                                     </div>
                                     <div class="col-11">
                                         <div>
-                                            <p class="comment-txt">
-                                                <strong>TXT_BEOMGYU</strong><img src="./images/verified.svg" alt=""
-                                                    width="13px" class="ms-1 verified">
-                                                Who else is this?
+                                            <p class="comment-moa">
+                                                <strong>여름🐛</strong>
+                                                This is so sweet :(
                                             </p>
                                             <div class="d-flex stats">
                                                 <img src="./images/like-weverse.svg" alt="">
@@ -424,14 +424,14 @@
                                 </div>
                                 <div class="row">
                                     <div class="col-1">
-                                        <img src="./images/taehyun.svg" alt="" width="30px">
+                                        <img src="https://cdn-contents-web.weverse.io/user/12347556a9b1441281c09b127290494f582.jpg"
+                                            alt="" width="30px" class="rounded-circle">
                                     </div>
                                     <div class="col-11">
                                         <div>
-                                            <p class="comment-txt">
-                                                <strong>TXT_TAEHYUN</strong><img src="./images/verified.svg" alt=""
-                                                    width="13px" class="ms-1 verified">
-                                                Who else is this?
+                                            <p class="comment-moa">
+                                                <strong>사랑해내</strong>
+                                                I'm so jealous :(
                                             </p>
                                             <div class="d-flex stats">
                                                 <img src="./images/like-weverse.svg" alt="">
@@ -448,14 +448,14 @@
                                 </div>
                                 <div class="row">
                                     <div class="col-1">
-                                        <img src="./images/kai.svg" alt="" width="30px">
+                                        <img src="https://cdn-contents.weverse.io/static/profile/profile_defalut_img_02.png"
+                                            alt="" width="30px">
                                     </div>
                                     <div class="col-11">
                                         <div>
-                                            <p class="comment-txt">
-                                                <strong>TXT_HUENINGKAI</strong><img src="./images/verified.svg" alt=""
-                                                    width="13px" class="ms-1 verified">
-                                                ??????
+                                            <p class="comment-moa">
+                                                <strong>kai_forlove</strong>
+                                                Happy birthdayy for you moa! 🥰🥰
                                             </p>
                                             <div class="d-flex stats">
                                                 <img src="./images/like-weverse.svg" alt="">
@@ -520,34 +520,10 @@
                                     </div>
                                     <div class="col-11">
                                         <div>
-                                            <p class="comment-txt">
+                                            <p class="comment-txt" style="max-width: 100%">
                                                 <strong>TXT_YEONJUN</strong><img src="./images/verified.svg" alt=""
                                                     width="13px" class="ms-1 verified">
-                                                Birthday girl? Who? Do I know her?
-                                            </p>
-                                            <div class="d-flex stats">
-                                                <img src="./images/like-weverse.svg" alt="">
-                                                <p class="pt-3 ps-1">20k+</p>
-                                                <span class="fc-gray button-split px-1">.</span>
-                                                <p class="pt-3 ps-1">Reply</p>
-                                                <span class="fc-gray button-split px-1">.</span>
-                                                <p class="pt-3 ps-1">Translate</p>
-                                                <span class="fc-gray button-split px-1">.</span>
-                                                <p class="pt-3 ps-1 fc-gray">Apr 12, 2022, 11:54</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-1">
-                                        <img src="./images/beomgyu.svg" alt="" width="30px">
-                                    </div>
-                                    <div class="col-11">
-                                        <div>
-                                            <p class="comment-txt">
-                                                <strong>TXT_BEOMGYU</strong><img src="./images/verified.svg" alt=""
-                                                    width="13px" class="ms-1 verified">
-                                                Who else is this?
+                                                Really bad, the cake was eaten last year
                                             </p>
                                             <div class="d-flex stats">
                                                 <img src="./images/like-weverse.svg" alt="">
@@ -568,10 +544,10 @@
                                     </div>
                                     <div class="col-11">
                                         <div>
-                                            <p class="comment-txt">
+                                            <p class="comment-txt" style="max-width: 100%">
                                                 <strong>TXT_TAEHYUN</strong><img src="./images/verified.svg" alt=""
                                                     width="13px" class="ms-1 verified">
-                                                Who else is this?
+                                                Don't accept it. I could bought fresh from oven cake for you
                                             </p>
                                             <div class="d-flex stats">
                                                 <img src="./images/like-weverse.svg" alt="">
@@ -595,7 +571,32 @@
                                             <p class="comment-txt">
                                                 <strong>TXT_HUENINGKAI</strong><img src="./images/verified.svg" alt=""
                                                     width="13px" class="ms-1 verified">
-                                                ??????
+                                                ?????????????????????????????????? really?
+                                            </p>
+                                            <div class="d-flex stats">
+                                                <img src="./images/like-weverse.svg" alt="">
+                                                <p class="pt-3 ps-1">20k+</p>
+                                                <span class="fc-gray button-split px-1">.</span>
+                                                <p class="pt-3 ps-1">Reply</p>
+                                                <span class="fc-gray button-split px-1">.</span>
+                                                <p class="pt-3 ps-1">Translate</p>
+                                                <span class="fc-gray button-split px-1">.</span>
+                                                <p class="pt-3 ps-1 fc-gray">Apr 12, 2022, 11:54</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-1">
+                                        <img src="https://cdn-contents-web.weverse.io/user/84b2e5b0ed044d588aafde10f64299e4473.jpg"
+                                            alt="" width="30px" class="rounded-circle">
+                                    </div>
+                                    <div class="col-11">
+                                        <div>
+                                            <p class="comment-moa" style="max-width: 100%">
+                                                <strong>gogo_txt</strong>
+                                                Happy birthday to you. From moas. May good luck go with you and happiness
+                                                too!
                                             </p>
                                             <div class="d-flex stats">
                                                 <img src="./images/like-weverse.svg" alt="">
@@ -661,10 +662,9 @@
                                     </div>
                                     <div class="col-11">
                                         <div>
-                                            <p class="comment-txt">
-                                                <strong>TXT_YEONJUN</strong><img src="./images/verified.svg" alt=""
-                                                    width="13px" class="ms-1 verified">
-                                                Birthday girl? Who? Do I know her?
+                                            <p class="comment-moa" style="max-width: 100%">
+                                                <strong>abcdve</strong>
+                                                HAPPY BIRTHDAY GIRL, WISH YOU ALL THE BEST AND KEEP STAYING WITH MOAS!
                                             </p>
                                             <div class="d-flex stats">
                                                 <img src="./images/like-weverse.svg" alt="">
@@ -681,14 +681,15 @@
                                 </div>
                                 <div class="row">
                                     <div class="col-1">
-                                        <img src="./images/beomgyu.svg" alt="" width="30px">
+                                        <img src="https://cdn-contents.weverse.io/static/profile/profile_defalut_img_02.png"
+                                            alt="" width="30px">
                                     </div>
                                     <div class="col-11">
                                         <div>
-                                            <p class="comment-txt">
-                                                <strong>TXT_BEOMGYU</strong><img src="./images/verified.svg" alt=""
-                                                    width="13px" class="ms-1 verified">
-                                                Who else is this?
+                                            <p class="comment-moa" style="max-width:100%">
+                                                <strong>휴닝💜</strong>
+                                                Wishing you all the great things in life. I hope this day will bring you an
+                                                extra share of all that makes you happiest. Happy birthday MOA!
                                             </p>
                                             <div class="d-flex stats">
                                                 <img src="./images/like-weverse.svg" alt="">
@@ -705,14 +706,14 @@
                                 </div>
                                 <div class="row">
                                     <div class="col-1">
-                                        <img src="./images/taehyun.svg" alt="" width="30px">
+                                        <img src="https://cdn-contents.weverse.io/static/profile/profile_defalut_img_02.png"
+                                            alt="" width="30px">
                                     </div>
                                     <div class="col-11">
                                         <div>
-                                            <p class="comment-txt">
-                                                <strong>TXT_TAEHYUN</strong><img src="./images/verified.svg" alt=""
-                                                    width="13px" class="ms-1 verified">
-                                                Who else is this?
+                                            <p class="comment-moa">
+                                                <strong>웅냥몽</strong>
+                                                Happy birthday. I pray all your birthday wishes to come true.
                                             </p>
                                             <div class="d-flex stats">
                                                 <img src="./images/like-weverse.svg" alt="">
@@ -729,14 +730,14 @@
                                 </div>
                                 <div class="row">
                                     <div class="col-1">
-                                        <img src="./images/kai.svg" alt="" width="30px">
+                                        <img src="https://cdn-contents-web.weverse.io/user/1bbb73d4daf34917be17e8a45c9ea015383.jpg"
+                                            alt="" width="30px" class="rounded-circle">
                                     </div>
                                     <div class="col-11">
                                         <div>
-                                            <p class="comment-txt">
-                                                <strong>TXT_HUENINGKAI</strong><img src="./images/verified.svg" alt=""
-                                                    width="13px" class="ms-1 verified">
-                                                ??????
+                                            <p class="comment-moa">
+                                                <strong>Aira.m</strong>
+                                                Happy birthday, we are MOAS, so loving you much much much!!!
                                             </p>
                                             <div class="d-flex stats">
                                                 <img src="./images/like-weverse.svg" alt="">
