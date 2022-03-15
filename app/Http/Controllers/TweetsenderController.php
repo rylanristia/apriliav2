@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\TweetsenderModel;
+use App\Models\TxtsenderModel;
 use Illuminate\Http\Request;
 
 class TweetsenderController extends Controller
@@ -15,11 +16,13 @@ class TweetsenderController extends Controller
     public function index()
     {
         $twitter = TweetsenderModel::orderBy('id', 'desc')->where('highlighted', '0')->get();
-        $highlighted = TweetsenderModel::where('highlighted', '1')->get();
+        $highlighted = TweetsenderModel::orderby('id', 'desc')->where('highlighted', '1')->get();
+        $txtsender = TxtsenderModel::orderby('id', 'desc')->get();
 
         return view('pages.tweet-sender')->with([
             'twitter' => $twitter,
-            'highlighted' => $highlighted
+            'highlighted' => $highlighted,
+            'txtsender' => $txtsender
         ]);
     }
 

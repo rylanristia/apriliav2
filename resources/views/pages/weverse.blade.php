@@ -783,8 +783,8 @@
                                     </div>
                                 </div>
                                 <p class="pt-3">
-                                    i have a something for you. click this link
-                                    <a href="{{ route('txt') }}">Tomorrow X Together</a>
+                                    i have a something for you from
+                                    <a href="{{ route('april-friends') }}">they are who loves you</a>
                                 </p>
                                 <hr>
                                 <div class="d-flex">
@@ -794,7 +794,35 @@
                                     <span class="me-2 fc-gray" style="font-size: 14px">3,677</span>
                                 </div>
                                 <hr>
-                                <div class="comment-section d-flex">
+                                {{-- comment --}}
+                                <div class="row">
+                                    <div class="col-1">
+                                        <img src="./images/profile.png" alt="" width="30px">
+                                    </div>
+                                    <div class="col-11">
+                                        <div>
+                                            <p class="comment-moa" style="max-width: 100%">
+                                                <strong>Rylanristia</strong>
+                                                I do have something for you. The pictures of TXT... <a
+                                                    href="{{ route('txt') }}">Tomorrow X Together</a>
+                                            </p>
+                                            <div class="d-flex stats">
+                                                <img src="./images/like-weverse.svg" alt="">
+                                                <p class="pt-3 ps-1">20k+</p>
+                                                <span class="fc-gray button-split px-1">.</span>
+                                                <p class="pt-3 ps-1">Reply</p>
+                                                <span class="fc-gray button-split px-1">.</span>
+                                                <p class="pt-3 ps-1">Translate</p>
+                                                <span class="fc-gray button-split px-1">.</span>
+                                                <p class="pt-3 ps-1 fc-gray">Apr 12, 2022, 11:54</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="d-flex justify-content-center">
+                                    <button class="btn btn-readmore">Read more comments</button>
+                                </div>
+                                <div class="comment-section d-flex mt-4">
                                     <img src="./images/profile-april.svg" alt="" width="35px">
                                     <div class="card-comment d-flex ms-2">
                                         <input type="text" class="form-control" placeholder="Leave a comment"

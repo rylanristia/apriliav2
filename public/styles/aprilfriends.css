@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  overflow: hidden;
+}
+
+.bg-blue-dark {
+  background-color: #39315C;
+}
+
+.bg-blue-medium {
+  background-color: #7E84C9;
+}
+
+.bg-blue-light {
+  background-color: #E5EDFA;
+}
+
+.bg-white {
+  background-color: white;
+}
+
+.fc-blue-dark {
+  color: #39315C;
+}
+
+.fc-blue-medium {
+  color: #7E84C9;
+}
+
+.fc-blue-light {
+  color: #E5EDFA;
+}
+
+.fc-white {
+  color: white;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #11171a;
+  border-radius: 10px;
+}
+
+.youtube {
+  height: 600px;
+}
+
+@media (max-width: 767.98px) {
+  .youtube {
+    height: 250px;
+  }
+  p {
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .youtube {
+    height: 200px;
+  }
+}
+/*# sourceMappingURL=aprilfriends.css.map */
