@@ -27,7 +27,7 @@
 </head>
 
 <body>
-    <h1>Can't you see nothing? Hahaha, only her who can see it</h1>
+    <h1>Can you see nothing? Hahaha, only her who can see it</h1>
 </body>
 
 </html>
