@@ -176,7 +176,7 @@
                 <div class="description-mobile">
                     <p class="mt-5">Happy birthday baby ❤️ Doa aku selalu yang terbaik buat kamu.
                         Semoga mimpi dan cita-cita kamu tercapai segera yaa, aku yakin kamu pasti bisa dapetin apa yang
-                        kamu mau. Aku selalu dukung kamu. Happy birthday ❤️</p>
+                        kamu mau. Aku selalu dukung kamu. Happy birthday ❤️ ❤️</p>
                 </div>
             </div>
         </div>
