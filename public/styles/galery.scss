@@ -148,7 +148,31 @@ $scrollTime: 1s;
     }
     &-6 {
         .skw-page__half--left .skw-page__content {
-            background-image: url('https://pbs.twimg.com/media/FKWPp9LaQAI5tji?format=jpg&name=large');
+            background: lighten(#1C1C1C, 5%);
+        }
+        .skw-page__half--right .skw-page__content {
+            background-image: url('https://pbs.twimg.com/media/FNKtIj8aAAAi2rX?format=jpg&name=large');
+        }
+    }
+    &-7 {
+        .skw-page__half--left .skw-page__content {
+            background-image: url('https://pbs.twimg.com/media/FMXxciAakAMI8lh?format=jpg&name=large');
+        }
+        .skw-page__half--right .skw-page__content {
+            background: lighten(#1C1C1C, 5%);
+        }
+    }
+    &-8 {
+        .skw-page__half--left .skw-page__content {
+            background: lighten(#1C1C1C, 5%);
+        }
+        .skw-page__half--right .skw-page__content {
+            background-image: url('https://pbs.twimg.com/media/FMXzJI3aMAMzp_k?format=jpg&name=large');
+        }
+    }
+    &-9 {
+        .skw-page__half--left .skw-page__content {
+            background-image: url('https://pbs.twimg.com/media/FDwxvRtXsAAx8jV?format=jpg&name=medium');
         }
         .skw-page__half--right .skw-page__content {
             background: lighten(#1C1C1C, 5%);
@@ -217,6 +241,46 @@ $scrollTime: 1s;
         .image-placement-5 {
             filter: brightness(70%);
             background-image: url('https://pbs.twimg.com/media/FKWPp9LaQAI5tji?format=jpg&name=large');
+            height: 50%;
+            transform: skewy(190deg);
+            overflow-y: hidden;
+            background-attachment: fixed;
+            background-position: top;
+            background-repeat: no-repeat;
+        }
+        .image-placement-6 {
+            filter: brightness(70%);
+            background-image: url('https://pbs.twimg.com/media/FNKtIj8aAAAi2rX?format=jpg&name=large');
+            height: 50%;
+            transform: skewy(190deg);
+            overflow-y: hidden;
+            background-attachment: fixed;
+            background-position: top;
+            background-repeat: no-repeat;
+        }
+        .image-placement-7 {
+            filter: brightness(70%);
+            background-image: url('https://pbs.twimg.com/media/FMXxciAakAMI8lh?format=jpg&name=large');
+            height: 50%;
+            transform: skewy(190deg);
+            overflow-y: hidden;
+            background-attachment: fixed;
+            background-position: top;
+            background-repeat: no-repeat;
+        }
+        .image-placement-8 {
+            filter: brightness(70%);
+            background-image: url('https://pbs.twimg.com/media/FMXzJI3aMAMzp_k?format=jpg&name=large');
+            height: 50%;
+            transform: skewy(190deg);
+            overflow-y: hidden;
+            background-attachment: fixed;
+            background-position: top;
+            background-repeat: no-repeat;
+        }
+        .image-placement-9 {
+            filter: brightness(70%);
+            background-image: url('https://pbs.twimg.com/media/FDwxvRtXsAAx8jV?format=jpg&name=medium');
             height: 50%;
             transform: skewy(190deg);
             overflow-y: hidden;
