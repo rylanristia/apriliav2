@@ -201,7 +201,8 @@
                                 </div>
 
                                 <div class="comment-section d-flex mt-4">
-                                    <img src="./images/profile-april.svg" alt="" width="35px">
+                                    <img src="https://cdn-contents.weverse.io/static/profile/profile_defalut_img_02.png"
+                                        alt="" width="35px">
                                     <div class="card-comment d-flex ms-2">
                                         <input type="text" class="form-control" placeholder="Leave a comment"
                                             style="font-size: 13px">
@@ -339,7 +340,8 @@
                                 </div>
 
                                 <div class="comment-section d-flex mt-4">
-                                    <img src="./images/profile-april.svg" alt="" width="35px">
+                                    <img src="https://cdn-contents.weverse.io/static/profile/profile_defalut_img_02.png"
+                                        alt="" width="35px">
                                     <div class="card-comment d-flex ms-2">
                                         <input type="text" class="form-control" placeholder="Leave a comment"
                                             style="font-size: 13px">
@@ -477,7 +479,8 @@
                                 </div>
 
                                 <div class="comment-section d-flex mt-4">
-                                    <img src="./images/profile-april.svg" alt="" width="35px">
+                                    <img src="https://cdn-contents.weverse.io/static/profile/profile_defalut_img_02.png"
+                                        alt="" width="35px">
                                     <div class="card-comment d-flex ms-2">
                                         <input type="text" class="form-control" placeholder="Leave a comment"
                                             style="font-size: 13px">
@@ -618,7 +621,8 @@
                                 </div>
 
                                 <div class="comment-section d-flex mt-4">
-                                    <img src="./images/profile-april.svg" alt="" width="35px">
+                                    <img src="https://cdn-contents.weverse.io/static/profile/profile_defalut_img_02.png"
+                                        alt="" width="35px">
                                     <div class="card-comment d-flex ms-2">
                                         <input type="text" class="form-control" placeholder="Leave a comment"
                                             style="font-size: 13px">
@@ -759,7 +763,8 @@
                                 </div>
 
                                 <div class="comment-section d-flex mt-4">
-                                    <img src="./images/profile-april.svg" alt="" width="35px">
+                                    <img src="https://cdn-contents.weverse.io/static/profile/profile_defalut_img_02.png"
+                                        alt="" width="35px">
                                     <div class="card-comment d-flex ms-2">
                                         <input type="text" class="form-control" placeholder="Leave a comment"
                                             style="font-size: 13px">
@@ -783,7 +788,7 @@
                                     </div>
                                 </div>
                                 <p class="pt-3">
-                                    i have a something for you from
+                                    i have something for you from
                                     <a href="{{ route('april-friends') }}">they are who loves you</a>
                                 </p>
                                 <hr>
@@ -823,7 +828,8 @@
                                     <button class="btn btn-readmore">Read more comments</button>
                                 </div>
                                 <div class="comment-section d-flex mt-4">
-                                    <img src="./images/profile-april.svg" alt="" width="35px">
+                                    <img src="https://cdn-contents.weverse.io/static/profile/profile_defalut_img_02.png"
+                                        alt="" width="35px">
                                     <div class="card-comment d-flex ms-2">
                                         <input type="text" class="form-control" placeholder="Leave a comment"
                                             style="font-size: 13px">
@@ -840,7 +846,7 @@
                             <img src="https://cdn-contents.weverse.io/static/profile/profile_defalut_img_02.png" alt=""
                                 width="50px" height="50px" class="me-3 mt-3">
                             <p class="pt-3">
-                                <strong>아프릴라</strong>
+                                <strong>Pril_prilia</strong>
                                 <br>
                                 <span class="fc-gray" style="font-size: 12px">Joined on Jan 22 2022</span>
                             </p>

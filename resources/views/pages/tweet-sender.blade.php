@@ -120,6 +120,53 @@
                     </div>
                     <hr>
                     <div class="timeline-body ms-lg-4 me-lg-4 ms-3 me-3">
+                        <div class="tweets">
+                            <div class="head-card d-flex">
+                                <img src="https://pbs.twimg.com/profile_images/1509918078913576964/ftV8AGka_400x400.jpg"
+                                    alt="" class="profile rounded-circle">
+                                <p class="fc-white">TXT Translations 📝</p>
+                            </div>
+                            <div class="text-sender">
+                                <p>
+                                    🐰: Hey, I wish you to be always healthy with a
+                                    bright smile shining on your face. ❤️❤️❤️
+                                    <br>
+                                    <br>
+                                    <img src="{{ url('./images/soobin-weverse-post.jpg') }}" alt="" style="width: 100%"
+                                        class="rounded">
+                                </p>
+                            </div>
+                            <p class="time-stamp">10AM - 12 April, 2022</p>
+                            <div class="twit-stats d-flex">
+                                <p class="me-3"><strong>4.1K</strong> likes</p>
+                                <p class="me-3"><strong>4.1K</strong> replies</p>
+                                <p class="me-3"><strong>4.1K</strong> retweets</p>
+                            </div>
+                            <hr>
+                        </div>
+                        <div class="tweets">
+                            <div class="head-card d-flex">
+                                <img src="https://pbs.twimg.com/profile_images/1509918078913576964/ftV8AGka_400x400.jpg"
+                                    alt="" class="profile rounded-circle">
+                                <p class="fc-white">TXT Translations 📝</p>
+                            </div>
+                            <div class="text-sender">
+                                <p>
+                                    🐰: ???????????????????????? really?
+                                    <br>
+                                    <br>
+                                    <img src="{{ url('./images/weverse-comment.jpg') }}" alt="" style="width: 100%"
+                                        class="rounded">
+                                </p>
+                            </div>
+                            <p class="time-stamp">10AM - 12 April, 2022</p>
+                            <div class="twit-stats d-flex">
+                                <p class="me-3"><strong>4.1K</strong> likes</p>
+                                <p class="me-3"><strong>4.1K</strong> replies</p>
+                                <p class="me-3"><strong>4.1K</strong> retweets</p>
+                            </div>
+                            <hr>
+                        </div>
                         @foreach ($twitter as $tweet)
                             <div class="tweets">
                                 <div class="head-card d-flex">
@@ -158,69 +205,35 @@
                     </div>
                     <div class="highlighted mt-3">
                         <div class="card-trends">
-                            <h5 class="ms-4 fc-white pt-2 sticky-top">Tomorrow X Together</h5>
+                            <h5 class="ms-4 fc-white pt-2 sticky-top">Trends for you</h5>
                             {{-- highlighted --}}
-                            <a href="" class="tweet d-flex">
-                                <img src="./images/profile.png" alt="">
-                                <p>
-                                    Rylanristia @rylanristia_
-                                    <br> You can't do anything, just scrolling down
+                            <a href="#" class="tweet d-flex">
+                                <img src="https://pbs.twimg.com/profile_images/1416774860219424768/xQsvSdC-_400x400.jpg"
+                                    alt="" class="rounded-circle">
+                                <p style="margin-top: -10px; line-height:1px; padding-bottom: 5px ">
+                                    TOMORROW X TOGEHTER <img src="./images/twitter-verified.svg" alt=""
+                                        style="width: 18px; margin-top: -2px">
+                                    <br>
+                                    @TXT_members
                                 </p>
                             </a>
-                            <a href="" class="tweet d-flex">
-                                <img src="./images/profile.png" alt="">
-                                <p>
-                                    Rylanristia @rylanristia_
-                                    <br> You can't do anything, just scrolling down
+                            <a href="#" class="tweet d-flex">
+                                <img src="https://pbs.twimg.com/profile_images/1416776136822988805/FMLpWJNu_400x400.jpg"
+                                    alt="" class="rounded-circle">
+                                <p style="margin-top: -10px; line-height:1px; padding-bottom: 5px ">
+                                    TXT OFFICIAL <img src="./images/twitter-verified.svg" alt=""
+                                        style="width: 18px; margin-top: -2px">
+                                    <br>
+                                    @TXT_bighit
                                 </p>
                             </a>
-                            <a href="" class="tweet d-flex">
-                                <img src="./images/profile.png" alt="">
+                            <a href="#" class="tweet d-flex">
+                                <img src="https://pbs.twimg.com/profile_images/1509918078913576964/ftV8AGka_400x400.jpg"
+                                    alt="" class="rounded-circle">
                                 <p>
-                                    Rylanristia @rylanristia_
-                                    <br> You can't do anything, just scrolling down
-                                </p>
-                            </a>
-                            <a href="" class="tweet d-flex">
-                                <img src="./images/profile.png" alt="">
-                                <p>
-                                    Rylanristia @rylanristia_
-                                    <br> You can't do anything, just scrolling down
-                                </p>
-                            </a>
-                            <a href="" class="tweet d-flex">
-                                <img src="./images/profile.png" alt="">
-                                <p>
-                                    Rylanristia @rylanristia_
-                                    <br> You can't do anything, just scrolling down
-                                </p>
-                            </a>
-                            <a href="" class="tweet d-flex">
-                                <img src="./images/profile.png" alt="">
-                                <p>
-                                    Rylanristia @rylanristia_
-                                    <br> You can't do anything, just scrolling down
-                                </p>
-                            </a>
-                            <a href="" class="tweet d-flex">
-                                <img src="./images/profile.png" alt="">
-                                <p>
-                                    Rylanristia @rylanristia_
-                                    <br> You can't do anything, just scrolling down
-                                </p>
-                            </a>
-                            <a href="" class="tweet d-flex">
-                                <img src="./images/profile.png" alt="">
-                                <p>
-                                    Rylanristia @rylanristia_
-                                    <br> You can't do anything, just scrolling down
-                                </p>
-                            </a>
-                            <a href="" class="tweet d-flex">
-                                <img src="./images/profile.png" alt="">
-                                <p>
-                                    Rylanristia @rylanristia_
-                                    <br> You can't do anything, just scrolling down
+                                    TXT Translations 📝
+                                    <br>
+                                    @translatingTXT
                                 </p>
                             </a>
                         </div>
