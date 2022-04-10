@@ -192,7 +192,9 @@
                         @endforeach
                         <div class="card my-5 jumbotron p-4 fc-white bg-blue-dark rounded-3 shadow-sm">
                             <h5>This is the end of timeline</h5>
-                            <p>How is it, you like it? now i have one more page for you. click on button below.</p>
+                            <p>How is it, you like it? Before you continue, please be careful with your screen brightness
+                                after this, it could hurt your eye. now i have one more page for you. click on button below.
+                            </p>
                             <a href="{{ url('weverse') }}" class="btn btn-tweet">Next page</a>
                         </div>
                     </div>

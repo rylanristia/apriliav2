@@ -12,8 +12,9 @@
                 <div class="skw-page__skewed">
                     <div class="skw-page__content">
                         <h2 class="skw-page__heading">Hi April!</h2>
-                        <p class="skw-page__description">Seperti biasa, bukan aku kalo ga unpredictable. tapi mungkin udah
-                            ketebak si kalo aku bakalan bikin website lagi. Tapi tenang, kali ini lebih beda.</p>
+                        <p class="skw-page__description">Seperti biasa. 12 April... maaf ya kalo kamu ternyata kurang suka
+                            dengan hal semacam ini :) terlebih lagi, ada satu temen kamu nyangkut disini. sisanya cancel
+                            kok.</p>
                     </div>
                 </div>
             </div>
@@ -22,9 +23,9 @@
             <div class="skw-page__half skw-page__half--left">
                 <div class="skw-page__skewed">
                     <div class="skw-page__content">
-                        <h2 class="skw-page__heading">Apa yang beda?</h2>
-                        <p class="skw-page__description">Hmmm, pokoknya beda. kamu ikutin terus aja ya alur websitenya akan
-                            membawa kamu kemana. hehehe :).</p>
+                        <h2 class="skw-page__heading">Now it's different.</h2>
+                        <p class="skw-page__description">Alamat domain nya udah full nama kamu. setelah ini, server nya bisa
+                            kamu pake buat Resume/CV online kamu untuk keperluan kamu lamar kerja setelah lulus.</p>
                     </div>
                 </div>
             </div>
@@ -118,9 +119,9 @@
             <div class="skw-page__half skw-page__half--left">
                 <div class="skw-page__skewed">
                     <div class="skw-page__content">
-                        <p class="skw-page__description">Okey, sekian dari aku hehehe, tunggu surprise lainnya ya... soalnya
-                            ga cuma ini aja yang aku siapin. oiya salam ya buat bapak sama ibu, kaka dan mas yuda, dan
-                            jeanne.
+                        <p class="skw-page__description">SEMANGATTTT, gatau aku mau ngomong apa lagi, intinya i love u so
+                            much, and i miss you a lot. for real... aku gaakan kemana-mana, aku tunggu kamu selama apapun.
+                            just you.
                         </p>
                     </div>
                 </div>
@@ -144,6 +145,7 @@
                         <p class="skw-page__description">
                             Ada banyak twit dari orang-orang buat kamu hari ini. kalo ga percaya coba aja cek
                             <a class="skw-page__link" href="{{ route('twitter.index') }}">Twitter</a>
+                            <br>*click the twitter.
                         </p>
                     </div>
                 </div>
